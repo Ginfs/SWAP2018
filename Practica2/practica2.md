@@ -26,3 +26,5 @@ Ahora probamos a conectarnos sin contraseña
 
 Una prueba de la ejecucion de un comando pro ssh  
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica2/img/t4_4.jpg)
+
+## 5. 
