@@ -8,4 +8,4 @@ Para esta practica tendremos en cuenta:
 ### Creacion del archivo
 Se crea el archivo hola.html en /var/www/html/hola.html
 
-![imagen](https://github.com/Ginfs/SWAP2018/practica1/img/f1_1.jpg)
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica1/img/t1_1.jpg)
