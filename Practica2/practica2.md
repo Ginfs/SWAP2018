@@ -27,4 +27,9 @@ Ahora probamos a conectarnos sin contraseña
 Una prueba de la ejecucion de un comando pro ssh  
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica2/img/t4_4.jpg)
 
-## 5. 
+## 5. Programar tareas con crontab
+Añadimos al archivo /etc/crontab lo siguiente
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica2/img/t5_1.jpg)
+
+Y vemos el resultado
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica2/img/t5_2.jpg)
