@@ -9,5 +9,6 @@ Despues comentamos la linea que hace que el balanceador funciones como servidor 
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica3/img/t3.2_2.jpg)
 
 Ahora vemos como ya está funcionando como balanceador
-![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica3/img/t3.2_3.jpg)
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica3/img/t3.2_1.JPG)
+
 
