@@ -22,10 +22,10 @@ Vemos que el balanceador funciona alternando las maquinas
 ## 5 Someter a una alta carga el servidor de balanceo
 Vamos a utilizar Apache Benchmark con cada uno de los diferentes balanceadores 
 que hemos probado.  
-Resultado nginx.
+Resultado nginx.  
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica3/img/t5_1.JPG)
 
-Resultado haproxy.
+Resultado haproxy.  
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica3/img/t5_2.JPG)
 
 Las puebas se hacen con 5000 peticiones y con el balanceador recien reiniciado para cada prueba,
