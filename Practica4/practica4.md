@@ -32,3 +32,14 @@ Y vemos como nuestro balanceador está funcionando en https.
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t2_7.JPG)  
 
 ## 3 Configuración del cortafuegos.  
+Lo primero vamos a probar que el cortafuegos funciona. Eliminamos todas las reglas y denegamos todo el acceso.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t3_1.JPG)  
+
+Probamos acceder al servidor y vemos que no le llegan paquetes.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t3_2.JPG)  
+
+Ahora creamos nuestro script con la configuracion deseada.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t3_3.JPG)  
+
+Y vemos como ahora si responde el servidor al trafico.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t3_4.JPG)  
