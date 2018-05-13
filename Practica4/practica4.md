@@ -14,10 +14,19 @@ Probamos el acceso al sitio con https
 Vemos que la maquina donde está el certificado y https habilitado acepta la petición mientras
 que la otra maquina no.
 
-Ahora vamos a activar https en las otras maquinas.  
+#### Ahora vamos a activar https en las otras maquinas.  
+###### Maquina 1
 Para la otra maquina basta con copiar los certificados, activar ssl y configurar el archivo como en la maquina 1.
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t2_4.JPG)  
 Añadimos las lineas de configuracion de SSL a larchivo dafault-ssl.  
 Activamos los servicios con el maquina 1 y reiniciamos apache.  
 Y vemos como ya tenemos las dos maquinas contestando en https.  
-![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t2_4.JPG)  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t2_5.JPG)  
+
+###### Balanceador
+Para preparar el balanceador, copiamos los certificados de las otras maquinas a una carpeta y cambiamos nuestra configuracion del servidor.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t2_6.JPG)  
+Despues reiniciamos nginx.  
+
+Y vemos como nuestro balanceador está funcionando en https.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t2_7.JPG)  
