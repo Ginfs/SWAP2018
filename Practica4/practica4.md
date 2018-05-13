@@ -18,8 +18,8 @@ que la otra maquina no.
 ###### Maquina 1
 Para la otra maquina basta con copiar los certificados, activar ssl y configurar el archivo como en la maquina 1.
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t2_4.JPG)  
-Añadimos las lineas de configuracion de SSL a larchivo dafault-ssl.  
-Activamos los servicios con el maquina 1 y reiniciamos apache.  
+Añadimos las lineas de configuracion de SSL al archivo dafault-ssl.  
+Activamos los servicios en la maquina 1 y reiniciamos apache.  
 Y vemos como ya tenemos las dos maquinas contestando en https.  
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t2_5.JPG)  
 
@@ -30,3 +30,5 @@ Despues reiniciamos nginx.
 
 Y vemos como nuestro balanceador está funcionando en https.  
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica4/img/t2_7.JPG)  
+
+## 3 Configuración del cortafuegos.  
