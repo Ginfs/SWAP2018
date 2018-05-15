@@ -14,8 +14,8 @@ Primero vamos hacer nuestra copia en local con mysqldump
 Primero copiamos el fichero .sql en nuestra maquina  
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica5/img/t4_2.JPG)
 
-Una vez que lo tenemos creamos la base de datos.
+Una vez que lo tenemos creamos la base de datos e importamos la base de datos.  
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica5/img/t4_3.JPG)
 
-Y ya importamos la base de datos y vemos que se ha importado correctamente.
+Vemos que se ha importado correctamente.
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica5/img/t4_4.JPG)
