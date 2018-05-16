@@ -21,3 +21,21 @@ Vemos que se ha importado correctamente.
 ![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica5/img/t4_4.JPG)
 
 ## 5 Replicacion de BD mediante una configuracion maestro-esclavo
+Primero configuramos las dos maquinas con la configuracion indicada, reiniciamos el servicio  
+y si no da ningun erro es que todo está correcto.
+
+Ahora realizamos la configuracion del maestro.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica5/img/t5_1.JPG)
+
+Realizamos la cofiguracion en el esclavo.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica5/img/t5_2.JPG)
+
+Vemos que el estado del esclavo es correcto.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica5/img/t5_3.JPG)
+
+Ahora vamos a ver que todo funciona correctamente.  
+Insertamos una tupla en la tabla del maestro.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica5/img/t5_4.JPG)
+
+Y vemos como se refleja el cambio en el esclavo.  
+![imagen](https://github.com/Ginfs/SWAP2018/blob/master/Practica5/img/t5_5.JPG)
